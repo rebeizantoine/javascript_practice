@@ -13,9 +13,5 @@ We then multiply it by 10 to get a number between 0 and 9.99999... and use Math.
 
 The loop will keep printing random numbers to the console until it generates a number greater than 8. Once it finds such a number,
  it will break out of the loop, and the program will stop.
-
-
-
-
-
+ 
 */
